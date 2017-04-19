@@ -1,7 +1,7 @@
 html {
   font-size: 14px; /* px means 'pixels': the base font size is now 10 pixels high  */
   font-family: 'Raleway', sans-serif;
-  background-color: #62FF7C;
+  background: url(../images/stars_texture.jpg) #62FF7C;
 }
 h1 {
   font-size: 60px;
@@ -34,7 +34,7 @@ body {
 img {
   display: block;
   margin: 0 auto;
-  width: 400px;
+  width: 600px;
 }
 .tool-generator {
   font-family: 'futura', sans-serif;
