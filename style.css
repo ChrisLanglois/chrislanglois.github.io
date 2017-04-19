@@ -11,6 +11,15 @@ h1 {
   color: #62FF7C;
   text-shadow: 3px 3px 1px black;
 }
+h1 a {
+  font-size: 60px;
+  text-align: center;
+  margin: 0;
+  padding: 20px 0;    
+  color: #62FF7C;
+  text-shadow: 3px 3px 1px black;
+  text-decoration-line: none;
+}
 h2 {
   font-size: 30px;
   text-align: center;
@@ -18,6 +27,15 @@ h2 {
   padding: 20px 0;    
   color: #62FF7C;
   text-shadow: 3px 3px 1px black;
+}
+h2 a {
+  font-size: 30px;
+  text-align: center;
+  margin: 0;
+  padding: 20px 0;    
+  color: #62FF7C;
+  text-shadow: 3px 3px 1px black;
+  text-decoration-line: none;
 }
 p, li {
   font-size: 16px;    
